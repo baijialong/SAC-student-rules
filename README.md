@@ -37,7 +37,7 @@ The open access areas accessible by the use of the SUTD student card is meant fo
 
 As a general rule of thumb, **nothing** is to be stored in the open access area. Storage in any location that *does not come with a lock* (that is, the lockers and other storage devices) needs to be requested through the following process:
 
-1. Write an Email to ROOT's Student Initiatives email detailing the following:
+1. Write an Email to ROOT's Student Initiatives email (si@studentgov.sutd.edu.sg) detailing the following:
    - What kinds of items you are intending to store;
    - Rough size of item you are storing
    - The dates you need to store things for (**NO PERPETUITY.**)
