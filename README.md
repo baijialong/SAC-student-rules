@@ -1,6 +1,10 @@
 # Introduction
 The *Student Activity Centre* (SAC) is a student-led space in the Fabrication Lab block. It is a space for student clubs and research groups to conduct their activities and more.
 
+
+
+This is a living document, and policy suggestions are welcome: Just make sure you raise an issue!
+
 ## Core Philosophy
 
 The SAC is a place that is there to **support student activities and provide them an enclosed space to work**. It is primarily _not_ a storage space (excepting the rooms, which are used by student clubs).
