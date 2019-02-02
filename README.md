@@ -29,7 +29,7 @@ Food and Drinks are okay to have (for now) in the SAC; just *make sure you clean
 
 ***Please note: The SAC open areas are NOT FOR STORAGE!***
 
-Any items stored there not following the policies below will be <u>***reported and then promptly disposed of.***</u>
+Any items stored there not following the policies below will be ***reported and then promptly disposed of.***
 
 ### Open Areas:
 
